@@ -37,7 +37,7 @@ Las presentaciones SON PRESENCIALES y tendrán lugar en el **AULA ATECA** sito e
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### :calendar: Miércoles 15 de marzo de 2023
+### :calendar: Jueves 16 de marzo de 2023
 
 <img height="36px" src="imagenes/accenture.svg">
 
@@ -61,6 +61,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="28px" src="imagenes/viewnext.png">
 
 * 09.40h [Domínguez Gómez, Sergio]()
+* 09.40h [Bautista Somosierra, Francisco Alberto]()
+* 09.40h [Sánchez González, Hugo]()
+* 09.40h [Vargas García, Juan Antonio]()
 
 <hr>
 
