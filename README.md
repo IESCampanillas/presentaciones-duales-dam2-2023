@@ -42,6 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="36px" src="imagenes/accenture.svg">
 
 * 09.15h [Castillo Muñoz, María Natalia]()
+* 09.15h [Mostazo Gámez, Alejandro]()
 
 <img height="36px" src="imagenes/dekra.svg">
 
@@ -64,6 +65,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 09.40h [Bautista Somosierra, Francisco Alberto]()
 * 09.40h [Sánchez González, Hugo]()
 * 09.40h [Vargas García, Juan Antonio]()
+
+<img height="28px" src="imagenes/nttdata.png">
+
+* 09.50h [Hernández Mangas, Ernesto]()
+* 09.50h [Urbano Ruz, Alfonso]()
+
+<img height="28px" src="imagenes/opplus.png">
+
+* 10.00h [Sánchez Rojas, Pablo]()
 
 <hr>
 
