@@ -1,6 +1,6 @@
-# Presentaciones duales de 2º DAM del curso 2022|23
+# Presentaciones duales de 2º DAM - 2º DAW del curso 2022|23
 
-Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) del **CPIFP Nuevo (desglose IES Campanillas)** (Málaga) del curso 2022 - 2023.
+Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **2º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Nuevo (desglose IES Campanillas)** (Málaga) del curso 2022 - 2023.
 
 ## Índice
 * [Información de interés](#información-de-interés)
