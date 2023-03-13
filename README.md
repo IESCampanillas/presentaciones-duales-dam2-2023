@@ -57,7 +57,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="imagenes/properly.png">
 
-* 09.35h [Parra Toval, Alberto]()
+* 09.35h [Parra Toval, Alberto](https://github.com/AlbertoParraToval/Presentacion_Empresas_2022_2023)
 
 <img height="28px" src="imagenes/viewnext.png">
 
