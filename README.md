@@ -48,7 +48,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 * 09.20h [Antúnez Pérez, David]()
 * 09.20h [Benítez Ruíz, José Antonio]()
-* 09.20h [Cueto Jiménez, Alejandro]()
+* 09.20h [Cueto Jiménez, Alejandro](https://github.com/AleCueto/Presentaci-nDual2023)
 * 09.20h [Moreno González, Alberto]()
 
 <img height="30px" src="imagenes/mayoral.svg">
