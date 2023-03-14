@@ -46,7 +46,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/dekra.svg">
 
-* 09.20h [Antúnez Pérez, David]()
+* 09.20h [Antúnez Pérez, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd/tree/dual-2023-2dam)
 * 09.20h [Benítez Ruíz, José Antonio]()
 * 09.20h [Cueto Jiménez, Alejandro](https://github.com/AleCueto/Presentaci-nDual2023)
 * 09.20h [Moreno González, Alberto]()
