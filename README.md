@@ -73,7 +73,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="28px" src="imagenes/opplus.png">
 
-* 10.00h [Sánchez Rojas, Pablo]()
+* 10.00h [Sánchez Rojas, Pablo](https://github.com/psanroj268/Presentacion-Dual)
 
 <hr>
 
