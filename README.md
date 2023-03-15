@@ -63,7 +63,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 * 09.40h [Domínguez Gómez, Sergio]()
 * 09.40h [Bautista Somosierra, Francisco Alberto]()
-* 09.40h [Sánchez González, Hugo]()
+* 09.40h [Sánchez González, Hugo](https://github.com/hugosanchezg/presentacionDual23)
 * 09.40h [Vargas García, Juan Antonio]()
 
 <img height="28px" src="imagenes/nttdata.png">
