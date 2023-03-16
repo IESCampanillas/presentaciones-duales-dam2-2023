@@ -53,7 +53,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="30px" src="imagenes/mayoral.svg">
 
-* 09.30h [Rodríguez Barcos, Diego]()
+* 09.30h [Rodríguez Barcos, Diego](https://github.com/diegorodrii/2-DAM_DUAL)
 
 <img height="32px" src="imagenes/properly.png">
 
