@@ -61,7 +61,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="28px" src="imagenes/viewnext.png">
 
-* 09.40h [Domínguez Gómez, Sergio](https://github.com/sergiomoralesgarcia/SergioMorales_Dual)
+* 09.40h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/SergioMorales_Dual)
 * 09.40h [Bautista Somosierra, Francisco Alberto]()
 * 09.40h [Sánchez González, Hugo](https://github.com/hugosanchezg/presentacionDual23)
 * 09.40h [Vargas García, Juan Antonio]()
