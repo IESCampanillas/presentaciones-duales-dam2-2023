@@ -68,7 +68,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="28px" src="imagenes/nttdata.png">
 
-* 09.50h [Hernández Mangas, Ernesto]()
+* 09.50h [Hernández Mangas, Ernesto](https://github.com/ehm4/NTT-DATA-presentacion)
 * 09.50h [Urbano Ruz, Alfonso]()
 
 <img height="28px" src="imagenes/opplus.png">
